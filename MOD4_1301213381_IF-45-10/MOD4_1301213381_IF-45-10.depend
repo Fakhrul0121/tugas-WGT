@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1666539683 source:c:\users\user\documents\materi kuliah\struktur data\praktikum\mod4_1301213381_if-45-10\perpus.cpp
+	"perpus.h"
+
+1666537268 c:\users\user\documents\materi kuliah\struktur data\praktikum\mod4_1301213381_if-45-10\perpus.h
+	<iostream>
+
+1666537268 source:c:\users\user\documents\materi kuliah\struktur data\praktikum\mod4_1301213381_if-45-10\perpus.h
+	<iostream>
+
+1666539732 source:c:\users\user\documents\materi kuliah\struktur data\praktikum\mod4_1301213381_if-45-10\main.cpp
+	<iostream>
+	"perpus.h"
+

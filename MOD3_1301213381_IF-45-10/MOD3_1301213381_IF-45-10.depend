@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1665220269 source:c:\users\user\documents\materi kuliah\struktur data\praktikum\mod3_1301213381_if-45-10\main.cpp
+	<iostream>
+	"member.h"
+
+1665220222 c:\users\user\documents\materi kuliah\struktur data\praktikum\mod3_1301213381_if-45-10\member.h
+	<iostream>
+	<cstdlib>
+
+1665220222 source:c:\users\user\documents\materi kuliah\struktur data\praktikum\mod3_1301213381_if-45-10\member.h
+	<iostream>
+	<cstdlib>
+
